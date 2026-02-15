@@ -110,8 +110,6 @@ No external dependencies required (Python 3.10+ recommended).
 
 \### Generate payloads (default)
 
-```bash
-
 python xss\_forge.py
 
 
