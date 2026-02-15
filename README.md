@@ -2,7 +2,7 @@
 
 
 
-A lightweight Burp-like \*\*XSS payload generator\*\* that produces:
+A lightweight Burp-like **XSS payload generator** that produces:
 
 \- Baseline reflected XSS payload templates
 
@@ -12,7 +12,7 @@ A lightweight Burp-like \*\*XSS payload generator\*\* that produces:
 
 
 
-This tool \*\*only generates payload strings\*\* and does not perform scanning or exploitation.
+This tool **only generates payload strings** and does not perform scanning or exploitation.
 
 
 
@@ -24,7 +24,7 @@ This tool \*\*only generates payload strings\*\* and does not perform scanning o
 
 
 
-For \*\*authorized security testing and educational purposes only\*\*.
+For **authorized security testing and educational purposes only**.
 
 Always validate results manually in the correct injection context.
 
