@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="280" alt="XSS Payload Forge Logo">
+</p>
+
 # XSS Payload Forge
 
 A lightweight Burp-like **XSS payload generator** that produces:
