@@ -53,6 +53,8 @@ xss-payload-forge/
   xss_forge.py
   requirements.txt
   README.md
+  assets/
+    logo.jpg
 ```
 ---
 
