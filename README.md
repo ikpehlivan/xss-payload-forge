@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="280" alt="XSS Payload Forge Logo">
+  <img src="assets/logo.png" width="280" alt="XSS Payload Forge Logoo">
 </p>
 
 # XSS Payload Forge
